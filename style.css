@@ -10,12 +10,8 @@ body{
     margin:auto;
     text-align:center;
 }
-.sdivider{
-    background: #C14953;
-    height:0.5vh;
-    width:2vw;
-}
-.divider{
+
+span{
     background: #C14953;
     height:0.5vh;
     width:4vw;
