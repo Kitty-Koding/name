@@ -12,7 +12,7 @@ body{
 }
 .divider{
     background: #C14953;
-    height:0.2em;
+    height:10px;
     width:6em;
     margin:auto;
 }
