@@ -4,7 +4,7 @@ var femaleNames = [];
 for(var i = 0; i !== nameData.length; i ++){
     var temporary1 = "";
     var temporary2 = [];
-    for(var j = 0; j !== nameData[j].length; j ++){
+    for(var j = 0; j !== nameData[i].length; j ++){
         if(nameData[i][j] !== ","){
             temporary1 += nameData[i][j];
         }else{
