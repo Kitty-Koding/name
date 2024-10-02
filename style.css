@@ -10,17 +10,9 @@ body{
     margin:auto;
     text-align:center;
 }
-.sdivider{
-    background: #C14953;
-    height:0.22em;
-    width:4em;
-    margin:auto;
-    margin-bottom:10em;
-}
 .divider{
     background: #C14953;
     height:0.2em;
     width:6em;
     margin:auto;
-    margin-bottom:10em;
 }
