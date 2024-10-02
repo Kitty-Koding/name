@@ -22,6 +22,6 @@ for(var i = 0; i !== nameData.length; i ++){
     }
 }
 document.getElementById("num").addEventListener("mousemove",function(){
-    // document.getElementById("perc").textContent=document.getElementById("num").value;
-    document.getElementById("perc").textContent=femaleNames;
+    document.getElementById("perc").textContent=document.getElementById("num").value;
 });
+document.getElementById("perc").textContent=femaleNames;
