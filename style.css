@@ -1,4 +1,24 @@
 body{
-    background:red;
-    color:white;
+    background:#848FA5;
+    color:#2D2D2A;
+}
+#main{
+    background: #E5DCC5;
+    box-shadow: 0vw 0vh 1vw #4C4C47;
+    width:70vw;
+    padding:3vw;
+    margin:auto;
+    text-align:center;
+}
+.sdivider{
+    background: #C14953;
+    height:0.5vh;
+    width:2vw;
+    margin:auto;
+}
+.divider{
+    background: #C14953;
+    height:0.5vh;
+    width:4vw;
+    margin:auto;
 }
