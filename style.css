@@ -12,15 +12,15 @@ body{
 }
 .sdivider{
     background: #C14953;
-    height:0.2em;
+    height:2em;
     width:4em;
-    padding-bottom:10em;
     margin:auto;
+    margin-bottom:10em;
 }
 .divider{
     background: #C14953;
-    height:0.2em;
+    height:2em;
     width:6em;
-    padding-bottom:10em;
     margin:auto;
+    margin-bottom:10em;
 }
